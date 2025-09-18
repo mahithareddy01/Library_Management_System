@@ -11,7 +11,7 @@ Handles real-life operations: register members, manage books, track borrow/retur
 
 💻 How to Run
 # clone this repo
-git clone https://github.com/your-username/library-management-system.git
+git clone https://github.com/mahithareddy01/Library-Management-System.git
 
 # go inside project folder
 cd library-management-system
