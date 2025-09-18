@@ -21,6 +21,9 @@ pip install supabase
 
 # run the scripts
 python create.py
+
 python read.py
+
 python update.py
+
 python delete.py
