@@ -1,29 +1,30 @@
-A command-line Python app to manage a library using Supabase (Postgres) as the backend.
-Handles real-life operations: register members, manage books, track borrow/return transactions, and generate reports.
+Library Management System
 
-⚡ Features:
+A menu-driven Python app to manage a library using Supabase (Postgres) as the backend.
+Perform real-life operations: register members, manage books, and generate reports.
+
+⚡ Features
 
 👩‍🎓 Register new members
+
 📖 Add, update, or remove books
-🔁 Borrow & return books (with date tracking)
-📊 Generate reports: overdue books, most borrowed books
+
+📊 List and search books
+
 💾 Persistent storage using Supabase (Postgres)
 
 💻 How to Run
-# clone this repo
-git clone https://github.com/mahithareddy01/Library-Management-System.git
+# Clone this repo
+$git clone https://github.com/mahithareddy01/Library_Management_System.git
 
-# go inside project folder
-cd library-management-system
+# Go inside project folder
+$cd Library_Management_System
 
-# install dependencies (if any)
-pip install supabase
+# Install dependencies
+$pip install supabase
 
-# run the scripts
-python create.py
+# Run the menu-driven main script
+python main.py
 
-python read.py
-
-python update.py
-
-python delete.py
+# Run the menu-driven main script
+$ python main.py
