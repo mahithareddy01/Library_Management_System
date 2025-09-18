@@ -15,16 +15,13 @@ Perform real-life operations: register members, manage books, and generate repor
 
 💻 How to Run
 # Clone this repo
-$git clone https://github.com/mahithareddy01/Library_Management_System.git
+$ git clone https://github.com/mahithareddy01/Library_Management_System.git
 
-# Go inside project folder
-$cd Library_Management_System
+# Navigate into the project folder
+$ cd Library_Management_System
 
 # Install dependencies
-$pip install supabase
-
-# Run the menu-driven main script
-python main.py
+$ pip install supabase
 
 # Run the menu-driven main script
 $ python main.py
